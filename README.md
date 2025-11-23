@@ -57,6 +57,6 @@ Pour chaque item, le pipeline suit ces étapes :
 ```bash
 pip install torch transformers sentence-transformers datasets matplotlib numpy scikit-learn
 
-👥 Auteurs
+## 👥 Auteurs
 
 Mehdi Al-Ajhoury Emmanuel Mussche
