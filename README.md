@@ -52,11 +52,12 @@ Pour chaque item, le pipeline suit ces étapes :
 * Python 3.8 ou supérieur
 * Connexion Internet (pour le téléchargement initial des modèles Hugging Face)
 
+## 👥 Auteurs
+
+Mehdi Al-Ajhoury Emmanuel Mussche
+
 ### Installation des dépendances
 
 ```bash
 pip install torch transformers sentence-transformers datasets matplotlib numpy scikit-learn
 
-## 👥 Auteurs
-
-Mehdi Al-Ajhoury Emmanuel Mussche
