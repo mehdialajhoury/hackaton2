@@ -56,6 +56,8 @@ Pour chaque item, le pipeline suit ces étapes :
 
 Mehdi Al-Ajhoury Emmanuel Mussche
 
+Lien vidéo Loom : https://www.loom.com/share/55fafcc035364ab99e0167cb88c56cf0
+
 ### Installation des dépendances
 
 ```bash
